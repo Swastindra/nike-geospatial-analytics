@@ -107,13 +107,13 @@ if page == "Project Overview":
     st.markdown("---")
 
     st.subheader("Methodological Framework")
-    safe_image("methodology.jpeg")
+    safe_image("nike-geospatial-analytics/methodology.jpeg")
 
     st.subheader("Snapshot of the Dataset")
-    safe_image("dataset.jpeg")
+    safe_image("nike-geospatial-analytics/dataset.jpeg")
 
     st.subheader("Base Map with Interactive Pop-Ups")
-    safe_image("base map with pop ups.png")
+    safe_image("nike-geospatial-analytics/base map with pop ups.png")
 
 
 # ==================================================
@@ -130,10 +130,10 @@ elif page == "Factor 1: Population Density":
     </div>
     """, unsafe_allow_html=True)
 
-    safe_image("pop density EDA .jpeg")
+    safe_image("nike-geospatial-analytics/pop density EDA .jpeg")
 
     st.subheader("Choropleth Representation of Population Density")
-    safe_image("CHLOROPLETH.png")
+    safe_image("nike-geospatial-analytics/CHLOROPLETH.png")
 
 
 # ==================================================
@@ -150,10 +150,10 @@ elif page == "Factor 2: Commercial Proximity":
     </div>
     """, unsafe_allow_html=True)
 
-    safe_image("Commercial Proximity .jpeg")
+    safe_image("nike-geospatial-analytics/Commercial Proximity .jpeg")
 
     st.subheader("Spatial Classification Based on Commercial Proximity")
-    safe_image("visualisation of commerical proximity .jpeg")
+    safe_image("nike-geospatial-analytics/visualisation of commerical proximity .jpeg")
 
 
 # ==================================================
@@ -170,10 +170,10 @@ elif page == "Factor 3: Income Level":
     </div>
     """, unsafe_allow_html=True)
 
-    safe_image("income EDA.jpeg")
+    safe_image("nike-geospatial-analytics/income EDA.jpeg")
 
     st.subheader("Income-Based Spatial Visualization")
-    safe_image("Visualisation of income .jpeg")
+    safe_image("nike-geospatial-analytics/Visualisation of income .jpeg")
 
 
 # ==================================================
@@ -191,7 +191,7 @@ elif page == "Map Analysis 1: Store Catchment Area Analysis":
     </div>
     """, unsafe_allow_html=True)
 
-    safe_image("map1.png")
+    safe_image("nike-geospatial-analytics/map1.png")
 
 
 # ==================================================
@@ -208,7 +208,7 @@ elif page == "Map Analysis 2: Population Exposure Analysis":
     </div>
     """, unsafe_allow_html=True)
 
-    safe_image("map2.png")
+    safe_image("nike-geospatial-analytics/map2.png")
 
 
 # ==================================================
@@ -226,7 +226,7 @@ elif page == "Map Analysis 3: Inter-Store Distance Analysis":
     </div>
     """, unsafe_allow_html=True)
 
-    safe_image("map3.png")
+    safe_image("nike-geospatial-analytics/map3.png")
 
 
 # ==================================================
