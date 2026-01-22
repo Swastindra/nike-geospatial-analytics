@@ -235,45 +235,56 @@ elif page == "Conclusion":
     <div class="box">
     The geospatial analysis of Nike’s store location strategy reveals several important
     spatial patterns that provide insight into the brand’s retail decision-making approach.
+    <br><br>
 
-    1. Store Presence in Lower Population Density Regions
+    <b>1. Store Presence in Lower Population Density Regions</b>
+    <br><br>
 
-      The analysis indicates a relatively higher concentration of Nike stores in regions
-      characterized by lower residential population density. This observation can be
-      interpreted in two ways. First, population density values primarily represent residential
-      distribution, whereas Nike stores are predominantly located in commercial and retail
-      districts that experience high transient footfall. As a result, these areas may appear
-      low-density in census-based data despite strong daily consumer movement.
+    The analysis indicates a relatively higher concentration of Nike stores in regions
+    characterized by lower residential population density. This observation can be
+    interpreted in two ways. First, population density values primarily represent residential
+    distribution, whereas Nike stores are predominantly located in commercial and retail
+    districts that experience high transient footfall. As a result, these areas may appear
+    low-density in census-based data despite strong daily consumer movement.
+    <br><br>
 
-      Secondly, the findings suggest that Nike, as an affordable-luxury brand, does not rely
-      solely on residential population density as a determining factor for store placement.
-      Instead, the brand prioritizes functional and experiential retail environments over
-      pure demographic concentration.
+    Secondly, the findings suggest that Nike, as an affordable-luxury brand, does not rely
+    solely on residential population density as a determining factor for store placement.
+    Instead, the brand prioritizes functional and experiential retail environments over
+    pure demographic concentration.
+    <br><br><br>
 
-    2. Role of Proximity and Commercial Context
+    <b>2. Role of Proximity and Commercial Context</b>
+    <br><br>
 
-     Proximity emerges as one of the most significant factors influencing Nike’s store
-     location strategy. A deeper evaluation of the data-scraping stage reveals a clear
-     pattern: Nike stores demonstrate a strong preference for shopping districts and
-     commercial hubs over transit-oriented locations.
+    Proximity emerges as one of the most significant factors influencing Nike’s store
+    location strategy. A deeper evaluation of the data-scraping stage reveals a clear
+    pattern: Nike stores demonstrate a strong preference for shopping districts and
+    commercial hubs over transit-oriented locations.
+    <br><br>
 
-     This trend reinforces a brand-experience-driven retail model, where immersive
-     shopping environments, brand visibility, and consumer engagement take precedence
-     over purely convenience-based placement near transit nodes.
+    This trend reinforces a brand-experience-driven retail model, where immersive
+    shopping environments, brand visibility, and consumer engagement take precedence
+    over purely convenience-based placement near transit nodes.
+    <br><br><br>
 
-    3. Income-Level Distribution and Brand Positioning**
+    <b>3. Income-Level Distribution and Brand Positioning</b>
+    <br><br>
 
-       The spatial distribution of Nike stores across income-level regions indicates that the
-       brand operates within a wide economic spectrum. Stores are not confined exclusively
-       to high-income zones, highlighting that Nike does not adopt a narrowly premium
-       targeting strategy.
+    The spatial distribution of Nike stores across income-level regions indicates that the
+    brand operates within a wide economic spectrum. Stores are not confined exclusively
+    to high-income zones, highlighting that Nike does not adopt a narrowly premium
+    targeting strategy.
+    <br><br>
 
-       Instead, the presence of stores across diverse income categories supports Nike’s
-       mass-premium and accessibility-driven positioning, allowing the brand to cater to
-       a broad consumer base while maintaining its aspirational identity.
+    Instead, the presence of stores across diverse income categories supports Nike’s
+    mass-premium and accessibility-driven positioning, allowing the brand to cater to
+    a broad consumer base while maintaining its aspirational identity.
+    <br><br><br>
 
-   Overall, the findings demonstrate that Nike’s retail location strategy is shaped by a
-   combination of accessibility, commercial vibrancy, and brand experience considerations
-   rather than reliance on a single demographic or economic indicator.
+    Overall, the findings demonstrate that Nike’s retail location strategy is shaped by a
+    combination of accessibility, commercial vibrancy, and brand experience considerations
+    rather than reliance on a single demographic or economic indicator.
     </div>
     """, unsafe_allow_html=True)
+
