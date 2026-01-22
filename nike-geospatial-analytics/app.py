@@ -4,7 +4,7 @@ import os
 # ==================================================
 # PAGE CONFIG
 # ==================================================
-st.set_page_config(page_title="DECODING NIKE’S GEOSPATIAL STRATEGY AND EXTENDING THE FRAMEWORK TO ADDRESS THE IMPORTANCE OF GEOSPATIAL ANALYTICS IN BRAND-BUIDLING AND SUPPLY CHAIN MANAGEMENT", layout="wide")
+st.set_page_config(page_title="DECODING NIKE’S GEOSPATIAL STRATEGY", layout="wide")
 
 # ==================================================
 # SAFE IMAGE LOADER (PREVENTS WHITE SCREEN)
